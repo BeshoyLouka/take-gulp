@@ -8,7 +8,7 @@ var port = config.port;
 
 var server = http.createServer(function(request, response){
     console.log("Received request: " + request.url);
-    fs.readFile("../templates" + request.url, function(error, data){
+    fs.readFile("../" + request.url, function(error, data){
         if (error) {
             response.writeHead(404, {"Content-type":"text/plain"});
             response.end("Sorry the page was not found");
