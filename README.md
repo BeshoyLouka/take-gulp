@@ -1,4 +1,3 @@
-#### ?:
 - `gulp scripts` will compile a new 'bundle.js' using browserify
 - `node index.js` from inside 'public/js/' will run the server
 
