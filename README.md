@@ -1,4 +1,4 @@
-#### Achived:
+#### Achieved:
 - installed gulp.js
 - Got gulp-browserify to require "jQuery" & "Backbone"
 - have a simple node.js http.createServer() to get a simple server up
