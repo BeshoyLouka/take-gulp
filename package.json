@@ -1,0 +1,22 @@
+{
+  "name": "take-gulp",
+  "version": "0.0.0",
+  "description": "take a gulp!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BeshoyLouka/take-gulp.git"
+  },
+  "author": "Beshoy Louka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeshoyLouka/take-gulp/issues"
+  },
+  "devDependencies": {
+    "gulp-util": "~2.2.9",
+    "gulp": "~3.3.2"
+  }
+}
