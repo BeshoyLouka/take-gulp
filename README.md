@@ -3,6 +3,7 @@
 - Got gulp-browserify to require "jQuery" & "Backbone"
 - have a simple node.js http.createServer() to get a simple server up
 - Got rid of grunt
+- Got rid of RequireJS
 - Got rid of bower and depending on native npm plugins and dependencies
 
 #### TODOS:
